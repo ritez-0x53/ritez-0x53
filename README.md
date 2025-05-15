@@ -16,6 +16,7 @@
 
 #### 🛠️ Backend:
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+[![Database](https://img.shields.io/badge/Database-%232C3E50.svg?style=for-the-badge&logo=database&logoColor=white)](https://en.wikipedia.org/wiki/Database)
 [![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 #### 🖥️ Programming Languages:
