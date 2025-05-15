@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Riteswar Swargiary
 
-### 👨‍💻 Blockchain Developer Enthusiast | EVM | JavaScript & TypeScript Developer | Full-Stack Web3 Developer
+### 👨‍💻 Blockchain Developer Enthusiast | EVM | JavaScript & TypeScript Developer | Full-Stack Web Developer
 
 ---
 
@@ -25,11 +25,9 @@
 ---
 
 ### 💻 About Me:
-- 💡 **Blockchain Developer Enthusiast** focused on **Ethereum Virtual Machine (EVM)**, **Aptos**, and **Web3 technologies**.
 - 🔨 Skilled in **frontend development** using **React.js** and **Next.js**.
 - 🛠️ Building robust backend systems with **Node.js**.
 - 👨‍💻 Passionate about writing clean code in **JavaScript** and **TypeScript**.
-- 💡 Experienced in **smart contract development** with **Solidity**.
 - 🎓 **Student at Alchemy University Community**, continually learning and evolving in the Web3 space.
 
 ---
