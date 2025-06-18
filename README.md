@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Riteswar Swargiary
 
-### 👨‍💻 Blockchain Developer Enthusiast | EVM | JavaScript & TypeScript Developer | Full-Stack Web Developer
+### 👨‍💻  JavaScript & TypeScript Programmer | Full-Stack Web Developer
 
 ---
 
@@ -22,11 +22,6 @@
 #### 🖥️ Programming Languages:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### 🔗 Blockchain Development:
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Aptos](https://img.shields.io/badge/Aptos-000000?style=for-the-badge&logo=aptos&logoColor=white)
 
 ---
 
