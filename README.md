@@ -9,15 +9,20 @@
 #### 🌐 Frontend:
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![GSAP](https://img.shields.io/badge/GSAP-%2393CF2B.svg?style=for-the-badge&logo=greensock&logoColor=white)](https://gsap.com/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
+![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+
+
+<!--![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) -->
+<!--[![GSAP](https://img.shields.io/badge/GSAP-%2393CF2B.svg?style=for-the-badge&logo=greensock&logoColor=white)](https://gsap.com/) -->
 
 #### 🛠️ Backend:
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-[![Database](https://img.shields.io/badge/Database-%232C3E50.svg?style=for-the-badge&logo=database&logoColor=white)](https://en.wikipedia.org/wiki/Database)
+[![Express.js](https://img.shields.io/badge/Express.js-939393?style=for-the-badge&logo=express&logoColor=000000)](https://expressjs.com/)
 [![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
 
 #### 🖥️ Programming Languages:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
